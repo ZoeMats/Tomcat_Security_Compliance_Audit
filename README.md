@@ -55,10 +55,11 @@ python tomcat-scan.py --help
 - **Hardening:** Configure password digests using SHA-256 or stronger algorithms; update credentials to use hashed values
 
 ## Example Output
-[CHECK] Information Leakage Prevention ............ NON-COMPLIANT
-[CHECK] HTTPS Enforcement ......................... NON-COMPLIANT
-[CHECK] Manager Access Controls ................... NON-COMPLIANT
-[CHECK] Password Encryption ....................... NON-COMPLIANT
+
+- **Information Leakage Prevention** ............ ❌ NON-COMPLIANT  
+- **HTTPS Enforcement** ........................ ❌ NON-COMPLIANT  
+- **Manager Access Controls** .................. ❌ NON-COMPLIANT  
+- **Password Encryption** ...................... ❌ NON-COMPLIANT  
 
 COMPLIANCE SUMMARY
 ======================================================================
