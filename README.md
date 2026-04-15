@@ -61,8 +61,7 @@ python tomcat-scan.py --help
 - **Manager Access Controls** .................. ❌ NON-COMPLIANT  
 - **Password Encryption** ...................... ❌ NON-COMPLIANT  
 
-COMPLIANCE SUMMARY
-======================================================================
+## COMPLIANCE SUMMARY
 Total Checks:        4
 Compliant:           0
 Non-Compliant:       4
@@ -71,7 +70,8 @@ Partial:             0
 Compliance Rate:     0%
 
 
-## Project Structure
+Project Structure
+======================================================================
 ```
 tomcat-compliance-scanner/
 ├── tomcat_scanner/           # Main package directory
