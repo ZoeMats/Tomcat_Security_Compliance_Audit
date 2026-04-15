@@ -63,12 +63,12 @@ python tomcat-scan.py --help
 
 Compliance Summary
 ======================================================================
-Total Checks:        4
-Compliant:           0
-Non-Compliant:       4
-Partial:             0
+- **Total Checks:**        4
+- **Compliant:**           0
+- **Non-Compliant:**       4
+- **Partial:**             0
 
-Compliance Rate:     0%
+**Compliance Rate:     0%**
 
 
 Project Structure
