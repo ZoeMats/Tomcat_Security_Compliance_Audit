@@ -61,7 +61,8 @@ python tomcat-scan.py --help
 - **Manager Access Controls** .................. ❌ NON-COMPLIANT  
 - **Password Encryption** ...................... ❌ NON-COMPLIANT  
 
-## COMPLIANCE SUMMARY
+Compliance Summary
+======================================================================
 Total Checks:        4
 Compliant:           0
 Non-Compliant:       4
